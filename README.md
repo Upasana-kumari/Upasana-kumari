@@ -2,7 +2,7 @@
 - 👀 I’m interested in frontend role
 - 🌱 I’m currently learning web development
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me through linkedin
+- 📫 How to reach me through linkedin,instagran, facebook, twitter
 
 <!---
 Upasana-kumari/Upasana-kumari is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
